@@ -16,6 +16,7 @@ Home: https://www.qubes-os.org/doc/
 ## Developing
 - https://www.qubes-os.org/doc/qubes-builder/
 - https://www.qubes-os.org/doc/template-implementation/
+- https://www.qubes-os.org/doc/testing/#templates
 
 # Container
 - https://www.qubes-os.org/doc/glossary/#standalone
