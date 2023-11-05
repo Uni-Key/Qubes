@@ -6,13 +6,6 @@ Home: https://www.qubes-os.org/doc/
 - https://www.qubes-os.org/doc/architecture/
 - https://www.qubes-os.org/doc/how-to-organize-your-qubes/
 
-# Template
-- https://www.qubes-os.org/doc/templates/
-- https://www.qubes-os.org/doc/how-to-install-software/
-- https://www.qubes-os.org/doc/how-to-reinstall-a-template/
-- https://www.qubes-os.org/doc/glossary/#disposable-template
-- https://www.qubes-os.org/doc/bind-dirs/
-
 ## Developing
 relation: https://github.com/Uni-Key/Qubes.env/blob/main/.graph/Development:/readme.md
 
