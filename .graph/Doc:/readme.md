@@ -3,10 +3,10 @@
 - https://www.qubes-os.org/doc/getting-started/
 - https://www.qubes-os.org/doc/architecture/
 - https://www.qubes-os.org/doc/how-to-organize-your-qubes/
+- https://www.qubes-os.org/doc/templates/
 
 # index:
 - https://www.qubes-os.org/doc/how-to-copy-and-move-files/
-- https://www.qubes-os.org/doc/templates/
 - https://www.qubes-os.org/doc/standalones-and-hvms/
 - https://www.qubes-os.org/doc/glossary/
 - https://www.qubes-os.org/doc/templates/#inheritance-and-persistence
