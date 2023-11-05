@@ -5,6 +5,7 @@
 - https://www.qubes-os.org/doc/how-to-organize-your-qubes/
 
 # index:
+- https://www.qubes-os.org/doc/how-to-copy-and-move-files/
 - https://www.qubes-os.org/doc/templates/
 - https://www.qubes-os.org/doc/standalones-and-hvms/
 - https://www.qubes-os.org/doc/glossary/
