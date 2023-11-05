@@ -15,5 +15,8 @@
 # Maintenance
 - https://www.qubes-os.org/doc/how-to-update/
 
+# Backup / Restore / Migrate
+- https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/
+
 # Multi-Factor Authentication
 - https://www.qubes-os.org/doc/u2f-proxy/
