@@ -11,7 +11,10 @@ Home: https://www.qubes-os.org/doc/
 - https://www.qubes-os.org/doc/how-to-install-software/
 - https://www.qubes-os.org/doc/how-to-reinstall-a-template/
 - https://www.qubes-os.org/doc/glossary/#disposable-template
-- 
+
+## Developing
+- https://www.qubes-os.org/doc/qubes-builder/
+- https://www.qubes-os.org/doc/template-implementation/
 
 # Container
 - https://www.qubes-os.org/doc/glossary/#standalone
