@@ -4,3 +4,4 @@ Home: https://www.qubes-os.org/doc/#developer-documentation
 - https://www.qubes-os.org/doc/qubes-builder/
 - https://www.qubes-os.org/doc/template-implementation/
 - https://www.qubes-os.org/doc/testing/#templates
+- https://www.qubes-os.org/doc/qubes-service/
