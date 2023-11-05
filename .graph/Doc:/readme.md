@@ -14,9 +14,7 @@ Home: https://www.qubes-os.org/doc/
 - https://www.qubes-os.org/doc/bind-dirs/
 
 ## Developing
-- https://www.qubes-os.org/doc/qubes-builder/
-- https://www.qubes-os.org/doc/template-implementation/
-- https://www.qubes-os.org/doc/testing/#templates
+relation: https://github.com/Uni-Key/Qubes.env/blob/main/.graph/Development:/readme.md
 
 # Container
 - https://www.qubes-os.org/doc/glossary/#standalone
