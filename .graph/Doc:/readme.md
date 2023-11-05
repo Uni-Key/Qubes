@@ -12,6 +12,12 @@
 - https://www.qubes-os.org/doc/templates/#inheritance-and-persistence
 - https://www.qubes-os.org/doc/how-to-copy-and-paste-text/
 
+# Apps
+https://www.qubes-os.org/doc/how-to-install-software/
+
+# Storage
+https://www.qubes-os.org/doc/how-to-use-devices/
+
 # Maintenance
 - https://www.qubes-os.org/doc/how-to-update/
 
