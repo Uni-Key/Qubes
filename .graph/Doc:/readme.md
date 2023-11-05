@@ -30,6 +30,7 @@ relation: https://github.com/Uni-Key/Qubes.env/blob/main/.graph/Development:/rea
 - https://www.qubes-os.org/doc/how-to-install-software/
 - https://www.qubes-os.org/doc/app-menu-shortcut-troubleshooting/
 - https://www.qubes-os.org/doc/how-to-install-software/#installing-software-from-other-sources
+- https://www.qubes-os.org/doc/how-to-install-software/#rpmfusion-for-fedora-templates
 
 # Storage
 https://www.qubes-os.org/doc/how-to-use-devices/
