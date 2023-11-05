@@ -21,6 +21,9 @@ https://www.qubes-os.org/doc/how-to-use-devices/
 # Maintenance
 - https://www.qubes-os.org/doc/how-to-update/
 
+# Security
+- https://www.qubes-os.org/doc/device-handling-security/
+
 # Backup / Restore / Migrate
 - https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/
 
