@@ -40,6 +40,9 @@ https://www.qubes-os.org/doc/how-to-use-devices/
 # Security
 - https://www.qubes-os.org/doc/device-handling-security/
 
+# Network
+- https://www.qubes-os.org/doc/how-to-install-software/#updates-proxy
+
 # Backup / Restore / Migrate
 - https://www.qubes-os.org/doc/how-to-back-up-restore-and-migrate/
 
