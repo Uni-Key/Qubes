@@ -12,5 +12,8 @@
 - https://www.qubes-os.org/doc/templates/#inheritance-and-persistence
 - https://www.qubes-os.org/doc/how-to-copy-and-paste-text/
 
+# Maintenance
+- https://www.qubes-os.org/doc/how-to-update/
+
 # Multi-Factor Authentication
 - https://www.qubes-os.org/doc/u2f-proxy/
