@@ -11,6 +11,7 @@ Home: https://www.qubes-os.org/doc/
 - https://www.qubes-os.org/doc/how-to-install-software/
 - https://www.qubes-os.org/doc/how-to-reinstall-a-template/
 - https://www.qubes-os.org/doc/glossary/#disposable-template
+- https://www.qubes-os.org/doc/bind-dirs/
 
 ## Developing
 - https://www.qubes-os.org/doc/qubes-builder/
