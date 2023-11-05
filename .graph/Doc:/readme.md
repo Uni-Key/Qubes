@@ -5,10 +5,13 @@ Home: https://www.qubes-os.org/doc/
 - https://www.qubes-os.org/doc/getting-started/
 - https://www.qubes-os.org/doc/architecture/
 - https://www.qubes-os.org/doc/how-to-organize-your-qubes/
+
+# Template
 - https://www.qubes-os.org/doc/templates/
+- https://www.qubes-os.org/doc/how-to-install-software/
+- https://www.qubes-os.org/doc/how-to-reinstall-a-template/
 
 # index:
-- https://www.qubes-os.org/doc/how-to-install-software/
 - https://www.qubes-os.org/doc/how-to-copy-and-move-files/
 - https://www.qubes-os.org/doc/standalones-and-hvms/
 - https://www.qubes-os.org/doc/glossary/
