@@ -10,6 +10,11 @@ Home: https://www.qubes-os.org/doc/
 - https://www.qubes-os.org/doc/templates/
 - https://www.qubes-os.org/doc/how-to-install-software/
 - https://www.qubes-os.org/doc/how-to-reinstall-a-template/
+- https://www.qubes-os.org/doc/glossary/#disposable-template
+- 
+
+# Container
+- https://www.qubes-os.org/doc/glossary/#standalone
 
 # index:
 - https://www.qubes-os.org/doc/how-to-copy-and-move-files/
