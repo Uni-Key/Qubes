@@ -1,3 +1,4 @@
-https://www.qubes-os.org/intro/
-https://www.qubes-os.org/doc/templates/
-https://www.qubes-os.org/doc/glossary/
+- https://www.qubes-os.org/intro/
+- https://www.qubes-os.org/doc/templates/
+- https://www.qubes-os.org/doc/glossary/
+- https://www.qubes-os.org/doc/templates/#inheritance-and-persistence
