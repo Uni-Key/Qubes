@@ -1,4 +1,4 @@
-# Qubes
+# Qubes.environment
 Qubes OS wallet Environment! guide: https://www.qubes-os.org/intro/
 
 wiki:
