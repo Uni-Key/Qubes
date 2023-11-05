@@ -30,6 +30,7 @@ Home: https://www.qubes-os.org/doc/
 # Apps
 - https://www.qubes-os.org/doc/how-to-install-software/
 - https://www.qubes-os.org/doc/app-menu-shortcut-troubleshooting/
+- https://www.qubes-os.org/doc/how-to-install-software/#installing-software-from-other-sources
 
 # Storage
 https://www.qubes-os.org/doc/how-to-use-devices/
