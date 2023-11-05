@@ -27,7 +27,8 @@ Home: https://www.qubes-os.org/doc/
 - https://www.qubes-os.org/doc/how-to-copy-and-paste-text/
 
 # Apps
-https://www.qubes-os.org/doc/how-to-install-software/
+- https://www.qubes-os.org/doc/how-to-install-software/
+- https://www.qubes-os.org/doc/app-menu-shortcut-troubleshooting/
 
 # Storage
 https://www.qubes-os.org/doc/how-to-use-devices/
