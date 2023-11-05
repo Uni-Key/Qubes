@@ -9,6 +9,9 @@ Home: https://www.qubes-os.org/doc/
 ## Developing
 relation: https://github.com/Uni-Key/Qubes.env/blob/main/.graph/Development:/readme.md
 
+# Password
+- https://www.qubes-os.org/doc/vm-sudo/
+
 # Container
 - https://www.qubes-os.org/doc/glossary/#standalone
 
