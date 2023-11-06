@@ -4,7 +4,7 @@
 
 # Guide:
 ## Multibooting Qubes - Community Guides
-- https://forum.qubes-os.org/t/multibooting-qubes/18988
+https://forum.qubes-os.org/t/multibooting-qubes/18988
 
 >Qubes by default does not include other systems in the generated grub menu, because handling of other systems has been disabled. This means that you will have to manually add grub entries for any other OS.
 >
@@ -15,3 +15,7 @@
 >- Install Qubes
 >- Manually add boot stanzas to /etc/grub.d/40_custom
 >- Update grub
+
+
+## Blog:
+https://micahflee.com/2014/04/dual-booting-qubes-and-ubuntu-with-encrypted-disks/
