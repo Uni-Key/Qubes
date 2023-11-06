@@ -1,4 +1,7 @@
-# FAD
+sch:
+https://www.google.com/search?q=qubes+os+dual+boot
+
+# FAQ:
 - https://www.qubes-os.org/faq/#can-i-install-qubes-os-together-with-other-operating-system-dual-bootmulti-boot
 
 # Guide:
