@@ -4,6 +4,12 @@ https://www.google.com/search?q=qubes+os+dual+boot
 # FAQ:
 - https://www.qubes-os.org/faq/#can-i-install-qubes-os-together-with-other-operating-system-dual-bootmulti-boot
 
+# Relation: Grub Chainloading
+sch: https://www.google.com/search?q=ubuntu+grub+chainloading+partition
+
+Guide:
+- https://wiki.gentoo.org/wiki/GRUB/Chainloading
+
 # Guide:
 ## Multibooting Qubes - Community Guides
 https://forum.qubes-os.org/t/multibooting-qubes/18988
